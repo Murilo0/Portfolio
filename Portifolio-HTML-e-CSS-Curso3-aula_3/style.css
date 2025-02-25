@@ -135,6 +135,7 @@ button {
     font-family: 'Montserrat', sans-serif;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 16px;
     width: 378px;
     text-align: center;
@@ -144,7 +145,6 @@ button {
     font-size: 24px;
     font-weight: 600;
     color: #F7F0F5;
-    text-shadow: 2px 2px 4px #1a4a8f;
     background: #266dd3;
     will-change: transform;
     transform: translateY(-4px);
